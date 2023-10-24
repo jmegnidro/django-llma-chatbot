@@ -1,4 +1,4 @@
-git clone https://github.com/flori92/chatbot.git
+git clone https://github.com/jmegnidro/chatbot.git
 
 
 
